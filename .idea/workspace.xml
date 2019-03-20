@@ -2,9 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a59b6b4-4c6e-4edc-b4ba-48e1bb89ab87" name="Default Changelist" comment="Add method overloads.">
+      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/CalculateBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/CalculateHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/Divider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/MathCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/Multiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/Subtracter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CalcEngine/com/pluralsight/calcengine/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CalcEngine/com/pluralsight/calcengine/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pluralsight/calcengine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Flight/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Flight/src/com/pluralsight/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeConversion/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeConversion/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeConversion/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeConversion/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeConversion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeConversion/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeConversion/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeConversion/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeConversion/TypeConversion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeConversion/out/production/TypeConversion/com/pluralsight/mathorder/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeConversion/src/com/pluralsight/mathorder/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathorder/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathorder/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathorder/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathorder/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathorder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathorder/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathorder/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathorder/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathorder/mathorder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathorder/out/production/mathorder/com/pluralsight/mathorder/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathorder/src/com/pluralsight/mathorder/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +47,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+            <state relative-caret-position="300">
+              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/MathCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/CalculateHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="67" column="38" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -27,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/MathEquation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+            <state relative-caret-position="915">
+              <caret line="73" column="22" lean-forward="true" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
               <folding>
                 <element signature="e#324#325#0" expanded="true" />
                 <element signature="e#362#363#0" expanded="true" />
@@ -39,28 +89,102 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/CalculateBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-176">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding>
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/Adder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/Subtracter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/Multiplier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/Divider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/pluralsight/calcengine/MathEquation.java" />
+        <option value="$PROJECT_DIR$/src/com/pluralsight/calcengine/CalculateBase.java" />
+        <option value="$PROJECT_DIR$/src/com/pluralsight/calcengine/Adder.java" />
+        <option value="$PROJECT_DIR$/src/com/pluralsight/calcengine/Divider.java" />
+        <option value="$PROJECT_DIR$/src/com/pluralsight/calcengine/Multiplier.java" />
+        <option value="$PROJECT_DIR$/src/com/pluralsight/calcengine/Subtracter.java" />
+        <option value="$PROJECT_DIR$/src/com/pluralsight/calcengine/MathCommand.java" />
         <option value="$PROJECT_DIR$/src/com/pluralsight/calcengine/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/pluralsight/calcengine/CalculateHelper.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1260" />
+    <option name="y" value="-13" />
     <option name="width" value="1280" />
     <option name="height" value="653" />
   </component>
@@ -71,7 +195,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,10 +217,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552910001671" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553123679206" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -151,10 +275,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="653" extended-state="6" />
+    <frame x="-1280" y="-13" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18012924" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1825525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -165,7 +289,7 @@
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3493761" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28613138" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -174,12 +298,12 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.28861153" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.28861153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32956383" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -190,23 +314,86 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add method overloads." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/MathEquation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+        <state relative-caret-position="915">
+          <caret line="73" column="22" lean-forward="true" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
           <folding>
             <element signature="e#324#325#0" expanded="true" />
             <element signature="e#362#363#0" expanded="true" />
             <element signature="e#547#548#0" expanded="true" />
             <element signature="e#576#577#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/CalculateBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/Adder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/Subtracter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/Multiplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/Divider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/MathCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/calcengine/CalculateHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="67" column="38" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
         </state>
       </provider>
     </entry>
